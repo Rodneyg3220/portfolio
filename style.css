@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
-} */
-
 body {
     margin: 0;
     width: 100vw;
@@ -29,43 +23,8 @@ h5 {
   font-size: 90%;
 }
 
-/* .about {
-    margin: 150px;
-    border-radius: 20px;
-    width: 150px;
-    height: 150px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    cursor: pointer;
-    background: linear-gradient(45deg, #4CAF50, #2196F3); /* Adjust gradient colors as needed */
-  
-
-
-/* .about:hover {
-    transform: scale(1.5); /* Add a slight scale effect on hover */
-
-
-
-
-
-
-/* button {
-  margin-top: 10%;
-  
-  width: 10px;
-  height: 5px;
-  border-radius: 10%;
-  cursor: pointer;
-  justify-content: center;
-  display: flex;
-  
-} */
-
-
 html {
     height: 100%;
-    /* max-height: 600px; */
     width: 1000px;
     background-color: hsla(200,40%,30%,.4);
     background-image:   
